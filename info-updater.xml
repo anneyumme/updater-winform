@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <item>
-  <version>1.0.0.1</version>
-  <url>https://github.com/anneyumme/updater-winform/releases/download/MyRelease/Packing.zip</url>
+  <version>1.0.0.2</version>
+  <url>https://github.com/anneyumme/updater-winform/releases/download/1.0.0.2/Packing.zip</url>
+  <changelog>https://github.com/anneyumme/updater-winform/releases</changelog>
   <mandatory minversion="" mode="1">true</mandatory>
 </item>
