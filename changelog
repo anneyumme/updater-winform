@@ -1,0 +1,8 @@
+1.0.2
+Feature:
+ - Improve the quality of video when recorded via Webcam
+ - Include overlay date on the video when recorded.
+Bugs:
+ - 1D1C: Fixed when scanning AWB first but not when scanning the Carton.
+1.0.0
+- First Initialization
