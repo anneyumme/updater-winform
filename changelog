@@ -1,3 +1,7 @@
+1.0.3:
+Bugs:
+- The video was recorded too quickly.
+- Cancellation Token error after packing the final package in Group Pick (Returning to the S1 Screen).)
 1.0.2
 Feature:
  - Improve the quality of video when recorded via Webcam
