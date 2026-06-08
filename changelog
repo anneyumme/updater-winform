@@ -1,3 +1,7 @@
+1.0.0.7:
+Improved:
+- Group Pack can restart the process of packing if you have already scanned the SKU
+- We have processed the case of a canceled order on the e-commerce platform during packing in both Cluster Pack and Group Pack.
 1.0.0.6:
 Feature:
 - Improve UI and UX for Packing App
