@@ -1,3 +1,5 @@
+1.0.1.0:
+- Improve peformance and fix bug
 1.0.0.7:
 Improved:
 - Group Pack can restart the process of packing if you have already scanned the SKU
